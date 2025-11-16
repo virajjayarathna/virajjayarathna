@@ -1,11 +1,6 @@
 # Hi, I'm Viraj 👋
 
-## I'm a DevOps Engineer building robust platforms and bridging the gap between infrastructure and full-stack development.
-
-<br />
-
-I'm a tech professional passionate about creating scalable, reliable, and observable systems. My core expertise lies in **cloud infrastructure**, **platform engineering**, and implementing comprehensive **monitoring** solutions.
-
+## I'm a DevOps Engineer passionate about creating scalable, reliable, and observable systems. My core expertise lies in **cloud infrastructure**, **platform engineering**, and implementing comprehensive **monitoring** solutions
 ---
 
 ### 🔭 What I'm Currently Working On
@@ -18,5 +13,5 @@ I'm a tech professional passionate about creating scalable, reliable, and observ
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** `[Your LinkedIn URL Here]`
-* **Email:** `[Your Email Here]`
+* **LinkedIn:** `[https://www.linkedin.com/in/viraj-jayarathna-a54a221ba/]`
+* **Email:** `[virajmjayarathna@gmail.com]`
